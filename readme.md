@@ -8,7 +8,7 @@ Trying Fun with C
 
 ## Steps to Run in VS Code
 1. Build the file to generate class file - Terminal Menu -> Run Build Task (CTRL+SHIFT+B)
-2. Open another terminal, go to file path and run ./<FileName>. If the class is calaculator the command would be ./calculator
+2. Open another terminal, go to file path and run ./FileName. If the class is calaculator the command would be ./calculator
 
 ## Implementations so far
 1. Simple Calculator
